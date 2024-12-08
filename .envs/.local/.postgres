@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=crewcalendar
+POSTGRES_USER=OCqaKrUsUZuVydZGbPDgDISWyOJwpCKN
+POSTGRES_PASSWORD=njKRwHzMA60EJRMW88e7ExUADkvkWlnpIz8tce4HHoklXd02NMayDuv9AwsJFgo1
